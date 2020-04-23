@@ -4,7 +4,7 @@
 
 ### Demo :
 
-![1](/Demo/img1.jpg)
+![1](/Demo/img1.png)
 
 ### Installation :
 
